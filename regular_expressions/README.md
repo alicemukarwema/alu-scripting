@@ -1,0 +1,1 @@
+This repository, named alu-scripting, is a collection of Ruby scripts utilizing regular expressions. Each script focuses on different patterns using the scan method to extract specific text from the provided input.
